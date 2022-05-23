@@ -1,1 +1,3 @@
 # StockNLP
+
+pip install yfinance

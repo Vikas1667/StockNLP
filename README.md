@@ -1,24 +1,21 @@
-# StockNLP
+### Data Extraction Methods
 
-pip install yfinance
-
-
-Task : Financial Statement, Income statement, cash flow, Summary, NEWS 
-
-
-## 
-Investing.com
-Yahoo finance
-
-
-https://towardsdatascience.com/web-scraping-for-accounting-analysis-using-python-part-1-b5fc016a1c9a?gi=5deb278fb62a
-
-https://github.com/gslicht/Using_NLP_to_Predict_Almost_Bankruptcy
-http://thesis.honors.olemiss.edu/945/1/ForrestShortThesis%20.pdf
+API with alot information for accessing various segment of business
+1. [Financial Modeling Prep](https://site.financialmodelingprep.com/)
 
 
 
-Task 1 : Twitter extraction (keyword)---> sentiment anlaysis--> FastAPI 
+
+
+
+
+
+https://stackoverflow.com/questions/66708474/is-there-a-way-to-render-spacys-ner-output-on-a-dash-dashboard
+https://stackoverflow.com/questions/52638897/how-do-i-give-a-delay-in-user-input-to-a-textbox-in-a-dash-app
+https://towardsdatascience.com/creating-an-interactive-data-app-using-plotlys-dash-356428b4699c
+
+
+
 
 Skeleton
 (Financial)Keyword(tw)--> Data extraction(Mongo)--> Model(CNN or LSTM)-->FastAPI

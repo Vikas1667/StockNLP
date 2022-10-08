@@ -26,18 +26,18 @@ Skeleton
 Beautifulsoup
 Requests
 Selenium
-# !pip install bs4
-# !pip install --upgrade kiteconnect
-# !pip install moneycontrolPy
-# !pip install dateparser
-# !pip install moneycontrolPy
-# !pip install dateparser
-# !pip install selenium
+```
+!pip install bs4
+!pip install --upgrade kiteconnect
+!pip install moneycontrolPy
+!pip install dateparser
+!pip install moneycontrolPy
+!pip install dateparser
+!pip install selenium
 from selenium import webdriver
-
+```
 
 https://www.kaggle.com/kritanjalijain/twitter-sentiment-analysis-lstm/notebook
-
 
 
 Task 2.1: Decide by sneha(Financial Domain, Healthcare),(Text Classification) 

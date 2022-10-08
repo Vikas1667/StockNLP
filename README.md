@@ -1,4 +1,5 @@
 # StockNLP
+
 pip install yfinance
 
 
@@ -97,4 +98,7 @@ Task1:2 week: 11/6 --> 1/7
 
 NSE extractor
  tabs : Annual report Analysis
+
+
+1) Preprocessing Steps
 

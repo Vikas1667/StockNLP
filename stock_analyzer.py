@@ -61,7 +61,7 @@ def stock_info(headings):
     Extracts the data
     """
 
-    stocks_df = pd.read_csv("./stock_data/ind_nifty500list.csv")
+    stocks_df = pd.read_csv("data/stock_data/ind_nifty500list.csv")
 
     for title in headings:
         doc = nlp(title.text)
@@ -98,7 +98,7 @@ def stock_info_opt(headings):
     """
 
     global output
-    stocks_df = pd.read_csv("./stock_data/ind_nifty500list.csv")
+    stocks_df = pd.read_csv("data/stock_data/ind_nifty500list.csv")
     headings = [text_cleaning(i) for i in headings]
     print('\nHeadings\n',headings)
 

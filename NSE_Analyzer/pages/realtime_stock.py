@@ -13,6 +13,7 @@ import yfinance as yf
 import plotly.graph_objs as go
 
 import matplotlib.pyplot as plt
+
 plt.style.use('fivethirtyeight')
 from nsepy import get_history
 import datetime
